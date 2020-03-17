@@ -10,7 +10,7 @@ public class Customer2 {
     @RabbitHandler
     public void  show(String mes){
         System.out.println("itheima"+mes);
-        System.out.println("hello");
-        System.out.println("world");
+        System.out.println("hello1");
+        System.out.println("world1");
     }
 }
